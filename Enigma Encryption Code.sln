@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enigma Machine", "debugBot\Enigma Machine.csproj", "{B7DF43C8-B036-4825-AFFB-181A8D9D2D5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnigmaCypher", "EnigmaCypher\EnigmaCypher.csproj", "{9FB82994-BC58-4807-9C37-8EE2D20F31E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File Enigma Encrypter", "File Enigma Encrypter\File Enigma Encrypter.csproj", "{BCC51C2B-5C30-4822-A128-D9A5CC259D10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7DF43C8-B036-4825-AFFB-181A8D9D2D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DF43C8-B036-4825-AFFB-181A8D9D2D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DF43C8-B036-4825-AFFB-181A8D9D2D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DF43C8-B036-4825-AFFB-181A8D9D2D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB82994-BC58-4807-9C37-8EE2D20F31E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB82994-BC58-4807-9C37-8EE2D20F31E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB82994-BC58-4807-9C37-8EE2D20F31E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB82994-BC58-4807-9C37-8EE2D20F31E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC51C2B-5C30-4822-A128-D9A5CC259D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC51C2B-5C30-4822-A128-D9A5CC259D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC51C2B-5C30-4822-A128-D9A5CC259D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC51C2B-5C30-4822-A128-D9A5CC259D10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

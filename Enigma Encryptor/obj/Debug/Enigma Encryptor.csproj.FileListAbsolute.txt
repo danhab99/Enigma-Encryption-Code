@@ -1,0 +1,9 @@
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\bin\Debug\Enigma Encryptor.exe.config
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\bin\Debug\Enigma Encryptor.exe
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\bin\Debug\Enigma Encryptor.pdb
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\obj\Debug\Enigma_Encryptor.Form1.resources
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\obj\Debug\Enigma_Encryptor.Properties.Resources.resources
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\obj\Debug\Enigma Encryptor.csproj.GenerateResource.Cache
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\obj\Debug\Enigma Encryptor.exe
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\obj\Debug\Enigma Encryptor.pdb
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\obj\Debug\Enigma Encryptor.csprojResolveAssemblyReference.cache

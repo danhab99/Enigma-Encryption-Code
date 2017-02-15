@@ -1,0 +1,17 @@
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\bin\x64\Debug\Enigma Encryptor.exe.config
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\bin\x64\Debug\Enigma Encryptor.exe
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\bin\x64\Debug\Enigma Encryptor.pdb
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\bin\x64\Debug\CefSharp.Core.dll
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\bin\x64\Debug\CefSharp.dll
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\bin\x64\Debug\CefSharp.pdb
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\bin\x64\Debug\CefSharp.xml
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\bin\x64\Debug\CefSharp.Core.pdb
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\bin\x64\Debug\CefSharp.Core.xml
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\obj\x64\Debug\Enigma Encryptor.csprojResolveAssemblyReference.cache
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\obj\x64\Debug\Enigma_Encryptor.Form1.resources
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\obj\x64\Debug\Enigma_Encryptor.Properties.Resources.resources
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\obj\x64\Debug\Enigma Encryptor.csproj.GenerateResource.Cache
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\obj\x64\Debug\Enigma Encryptor.exe
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\obj\x64\Debug\Enigma Encryptor.pdb
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\bin\x64\Debug\EnigmaMachine.dll
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\Enigma Encryptor\bin\x64\Debug\EnigmaMachine.pdb

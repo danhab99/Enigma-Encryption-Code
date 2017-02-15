@@ -1,0 +1,6 @@
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\Rotor test\bin\Debug\Rotor test.exe.config
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\Rotor test\bin\Debug\Rotor test.exe
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\Rotor test\bin\Debug\Rotor test.pdb
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\Rotor test\obj\Debug\Rotor test.csprojResolveAssemblyReference.cache
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\Rotor test\obj\Debug\Rotor test.exe
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\Rotor test\obj\Debug\Rotor test.pdb

@@ -1,0 +1,35 @@
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\bin\Debug\File Enigma Encrypter.exe.config
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\bin\Debug\File Enigma Encrypter.exe
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\bin\Debug\File Enigma Encrypter.pdb
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\obj\Debug\File_Enigma_Encrypter.MainForm.resources
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\obj\Debug\File_Enigma_Encrypter.Properties.Resources.resources
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\obj\Debug\File Enigma Encrypter.csproj.GenerateResource.Cache
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\obj\Debug\File Enigma Encrypter.exe
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\obj\Debug\File Enigma Encrypter.pdb
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\obj\Debug\File Enigma Encrypter.csprojResolveAssemblyReference.cache
+E:\Transport\Enigma Encryption Code\File Enigma Encrypter\bin\Debug\File Enigma Encrypter.exe.config
+E:\Transport\Enigma Encryption Code\File Enigma Encrypter\bin\Debug\File Enigma Encrypter.exe
+E:\Transport\Enigma Encryption Code\File Enigma Encrypter\bin\Debug\File Enigma Encrypter.pdb
+E:\Transport\Enigma Encryption Code\File Enigma Encrypter\bin\Debug\mscorlib.dll
+E:\Transport\Enigma Encryption Code\File Enigma Encrypter\bin\Debug\normidna.nlp
+E:\Transport\Enigma Encryption Code\File Enigma Encrypter\bin\Debug\normnfc.nlp
+E:\Transport\Enigma Encryption Code\File Enigma Encrypter\bin\Debug\normnfd.nlp
+E:\Transport\Enigma Encryption Code\File Enigma Encrypter\bin\Debug\normnfkc.nlp
+E:\Transport\Enigma Encryption Code\File Enigma Encrypter\bin\Debug\normnfkd.nlp
+E:\Transport\Enigma Encryption Code\File Enigma Encrypter\obj\Debug\File Enigma Encrypter.csprojResolveAssemblyReference.cache
+E:\Transport\Enigma Encryption Code\File Enigma Encrypter\obj\Debug\File_Enigma_Encrypter.MainForm.resources
+E:\Transport\Enigma Encryption Code\File Enigma Encrypter\obj\Debug\File_Enigma_Encrypter.Properties.Resources.resources
+E:\Transport\Enigma Encryption Code\File Enigma Encrypter\obj\Debug\File Enigma Encrypter.csproj.GenerateResource.Cache
+E:\Transport\Enigma Encryption Code\File Enigma Encrypter\obj\Debug\File Enigma Encrypter.exe
+E:\Transport\Enigma Encryption Code\File Enigma Encrypter\obj\Debug\File Enigma Encrypter.pdb
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\bin\Debug\File Enigma Encrypter.exe.config
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\obj\Debug\File Enigma Encrypter.exe
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\obj\Debug\File Enigma Encrypter.pdb
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\bin\Debug\File Enigma Encrypter.exe
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\bin\Debug\File Enigma Encrypter.pdb
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\obj\Debug\File Enigma Encrypter.csprojResolveAssemblyReference.cache
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\obj\Debug\File_Enigma_Encrypter.MainForm.resources
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\obj\Debug\File_Enigma_Encrypter.Properties.Resources.resources
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\obj\Debug\File Enigma Encrypter.csproj.GenerateResource.Cache
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\bin\Debug\EnigmaCypher.dll
+Z:\Documents\Visual Studio 2015\Projects\Enigma Encryption Code\File Enigma Encrypter\bin\Debug\EnigmaCypher.pdb

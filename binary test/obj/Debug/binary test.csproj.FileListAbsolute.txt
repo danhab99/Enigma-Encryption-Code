@@ -1,0 +1,18 @@
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\binary test\bin\Debug\binary test.exe.config
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\binary test\bin\Debug\binary test.exe
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\binary test\bin\Debug\binary test.pdb
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\binary test\obj\Debug\binary test.csprojResolveAssemblyReference.cache
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\binary test\obj\Debug\binary test.exe
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\binary test\obj\Debug\binary test.pdb
+E:\Transport\Enigma Encryption Code\binary test\bin\Debug\binary test.exe.config
+E:\Transport\Enigma Encryption Code\binary test\bin\Debug\binary test.exe
+E:\Transport\Enigma Encryption Code\binary test\bin\Debug\binary test.pdb
+E:\Transport\Enigma Encryption Code\binary test\bin\Debug\mscorlib.dll
+E:\Transport\Enigma Encryption Code\binary test\bin\Debug\normidna.nlp
+E:\Transport\Enigma Encryption Code\binary test\bin\Debug\normnfc.nlp
+E:\Transport\Enigma Encryption Code\binary test\bin\Debug\normnfd.nlp
+E:\Transport\Enigma Encryption Code\binary test\bin\Debug\normnfkc.nlp
+E:\Transport\Enigma Encryption Code\binary test\bin\Debug\normnfkd.nlp
+E:\Transport\Enigma Encryption Code\binary test\obj\Debug\binary test.csprojResolveAssemblyReference.cache
+E:\Transport\Enigma Encryption Code\binary test\obj\Debug\binary test.exe
+E:\Transport\Enigma Encryption Code\binary test\obj\Debug\binary test.pdb

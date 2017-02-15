@@ -1,0 +1,5 @@
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\Enigma Encryption Code\bin\Debug\Enigma Encryption Code.dll
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\Enigma Encryption Code\bin\Debug\Enigma Encryption Code.pdb
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\Enigma Encryption Code\obj\Debug\Enigma Encryption Code.csprojResolveAssemblyReference.cache
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\Enigma Encryption Code\obj\Debug\Enigma Encryption Code.dll
+z:\dan\documents\visual studio 2015\Projects\Enigma Encryption Code\Enigma Encryption Code\obj\Debug\Enigma Encryption Code.pdb
